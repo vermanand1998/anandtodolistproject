@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vermanand1998.github.io/anandtodolistproject/static/css/main.3a3ce757.chunk.css",
+    "main.js": "/vermanand1998.github.io/anandtodolistproject/static/js/main.61ff1359.chunk.js",
+    "main.js.map": "/vermanand1998.github.io/anandtodolistproject/static/js/main.61ff1359.chunk.js.map",
+    "runtime-main.js": "/vermanand1998.github.io/anandtodolistproject/static/js/runtime-main.500cf9da.js",
+    "runtime-main.js.map": "/vermanand1998.github.io/anandtodolistproject/static/js/runtime-main.500cf9da.js.map",
+    "static/js/2.763b45de.chunk.js": "/vermanand1998.github.io/anandtodolistproject/static/js/2.763b45de.chunk.js",
+    "static/js/2.763b45de.chunk.js.map": "/vermanand1998.github.io/anandtodolistproject/static/js/2.763b45de.chunk.js.map",
+    "static/js/3.88c19ef1.chunk.js": "/vermanand1998.github.io/anandtodolistproject/static/js/3.88c19ef1.chunk.js",
+    "static/js/3.88c19ef1.chunk.js.map": "/vermanand1998.github.io/anandtodolistproject/static/js/3.88c19ef1.chunk.js.map",
+    "index.html": "/vermanand1998.github.io/anandtodolistproject/index.html",
+    "static/css/main.3a3ce757.chunk.css.map": "/vermanand1998.github.io/anandtodolistproject/static/css/main.3a3ce757.chunk.css.map",
+    "static/js/2.763b45de.chunk.js.LICENSE.txt": "/vermanand1998.github.io/anandtodolistproject/static/js/2.763b45de.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.500cf9da.js",
+    "static/js/2.763b45de.chunk.js",
+    "static/css/main.3a3ce757.chunk.css",
+    "static/js/main.61ff1359.chunk.js"
+  ]
+}
